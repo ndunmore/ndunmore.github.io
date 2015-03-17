@@ -1,0 +1,12 @@
+#name {
+  text-align: center;
+}
+body{
+  background-color: #FF2BC7;
+}
+h1{
+  color: #680082;
+}
+section{
+  color: #0026FF;
+}
